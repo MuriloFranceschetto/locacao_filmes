@@ -13,15 +13,15 @@
 	</classpathentry>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
 		<attributes>
+			<attribute name="test" value="true"/>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="test" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
 		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
@@ -31,8 +31,31 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
-			<attribute name="owner.project.facets" value="java"/>
+			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/access-bridge-64.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/charsets.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/cldrdata.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/deploy.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/dnsns.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/jaccess.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/javaws.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/jce.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/jfr.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/jfxrt.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/jfxswt.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/jsse.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/localedata.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/management-agent.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/nashorn.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/plugin.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/resources.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/rt.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/sunec.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="E:/UNIDEP/Vperiodo/programacao-III/libraries/zipfs.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
